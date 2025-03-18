@@ -1,4 +1,4 @@
 {
-    "version": "1.0.2",
-    "message": "Multiple ps-inventory fixes"
+    "version": "1.0.3",
+    "message": "Script detection update (Should fix some bugs)"
 }
