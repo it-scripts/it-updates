@@ -1,4 +1,4 @@
 {
-    "version": "1.0.4",
-    "message": "Update origen inventory detection"
+    "version": "1.0.5",
+    "message": "Fix nd_core detection"
 }
